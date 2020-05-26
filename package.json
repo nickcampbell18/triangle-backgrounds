@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "trianglify": "^1.2.0",
+    "trianglify": "^4.0.0",
     "canvas": "^1.6.13"
   },
   "scripts": {
